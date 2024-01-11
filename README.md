@@ -11,22 +11,6 @@ Participating in the Women Who Code Python Days of Code Challenge
 - [x] Link to slides --- docs.google.com/presentation/d/1D4DfHo3ip3q5umzzT1hJXiE7HkQpwqfi2N3cedcOf0g/edit?usp=sharing
 - [x] [Raffle](https://wwcode.typeform.com/to/yXYKKH85)
 
-## Daily goals
-
-- [ ] Code every day for your selected number of days: 7, 14, 30, 60, or 100.
-- [ ] Write an awesome commit message and push your code!
-- [ ] Continue writing on your documentation.
-- [ ] Share your wins!
-- [ ] Help someone on Slack. Give feedback, share resources, be a rubber ducky.
-- [ ] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
-
-## Weekly goals
-
-- [ ] Connect and follow a WWCode volunteer or member on LinkedIn. Endorse their skills or if you worked on a project together write recommendations!
-- [ ] (Optional) Reach out to one woman in tech. Use Hopin or Slack channel to say hi to new network.
-- [ ] Send appreciation message to a WWCode volunteer or member.
-
-
 # Day 1
 
 ```
@@ -46,8 +30,7 @@ Python Days of Code Challenge - Day 1
 Create a program that swaps the values of two variables.
 ```
 
-**Daily goals:**
-
+## Daily goals:
 - [x] Code [Day 1](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-1.py)
 - [x] Write an awesome commit message and push your code!
 - [x] Continue writing on your documentation.
@@ -55,3 +38,11 @@ Create a program that swaps the values of two variables.
 - [x] Help someone on Slack. Give feedback, share resources, be a rubber ducky.
 ![day1help](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day1-help-p.png)
 - [x] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
+
+
+## Weekly goals
+- [ ] Connect and follow a WWCode volunteer or member on LinkedIn. Endorse their skills or if you worked on a project together write recommendations!
+- [ ] (Optional) Reach out to one woman in tech. Use Hopin or Slack channel to say hi to new network.
+- [x] Send appreciation message to a WWCode volunteer or member. See the photo above.
+
+
