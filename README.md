@@ -27,7 +27,7 @@
 
 # Day 1
 
-Python Days of Code Challenge - Day 1
+```Python Days of Code Challenge - Day 1
 
 **How It Works:**
 - 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
@@ -41,6 +41,7 @@ Python Days of Code Challenge - Day 1
 
 **Today's Challenge:**
 Create a program that swaps the values of two variables.
+```
 
 **Daily goals:**
 
