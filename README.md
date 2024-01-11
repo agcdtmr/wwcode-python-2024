@@ -44,9 +44,10 @@ Create a program that swaps the values of two variables.
 
 **Daily goals:**
 
-- [x] Code Day 1
+- [x] Code [Day 1](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-1.py)
 - [x] Write an awesome commit message and push your code!
 - [x] Continue writing on your documentation.
 - [x] Share your wins!
 - [x] Help someone on Slack. Give feedback, share resources, be a rubber ducky.
+![day1help](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day1-help-p.png)
 - [x] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
