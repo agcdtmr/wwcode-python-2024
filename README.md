@@ -2,7 +2,7 @@
 
 Participating in the Women Who Code Python Days of Code Challenge
 
-- [x] Fork and use this [tracker](https://github.com/agcdtmr/wwcode-days-of-code-challenge-2024) for the whole coding challenge
+- [x] Fork and start easy using this [tracker](https://github.com/agcdtmr/wwcode-days-of-code-challenge-2024)
 - [x] Attend the Python Days of Code Challenge Launch on Jan 10 at 04:30PM–05:00PM CET or watch the [recording](https://www.youtube.com/watch?v=9lDdnvhVBDo)
 - [x] Join the WWCode Python [Slack (invitation link)](join.slack.com/t/wwcodepython/shared_invite/zt-21rvhnd77-GIkM~vwnst~rpSaVf6fZ2w)
 - [x] Join us in the [#python-challenges channel](wwcodepython.slack.com/archives/C06722AGCGG) to participate in the challenge.
