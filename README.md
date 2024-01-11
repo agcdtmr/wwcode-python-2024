@@ -29,7 +29,7 @@
 
 Python Days of Code Challenge - Day 1
 
-**How It Works:*
+**How It Works:**
 - 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
 
 **Learning Together:**
@@ -44,10 +44,9 @@ Create a program that swaps the values of two variables.
 
 **Daily goals:**
 
-- [x] Code every day for your selected number of days: 7, 14, 30, 60, or 100.
+- [x] Code Day 1
 - [x] Write an awesome commit message and push your code!
 - [x] Continue writing on your documentation.
 - [x] Share your wins!
-- [ ] Help someone on Slack. Give feedback, share resources, be a rubber ducky.
-- [ ] Send appreciation message to a WWCode volunteer or member.
+- [x] Help someone on Slack. Give feedback, share resources, be a rubber ducky.
 - [x] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
