@@ -16,17 +16,17 @@ Participating in the Women Who Code Python Days of Code Challenge
 ```
 Python Days of Code Challenge - Day 1
 
-**How It Works:**
+How It Works:
 - 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
 
-**Learning Together:**
+Learning Together:
 - [ ] Share your solutions, ask questions, and connect with fellow coders in this thread or on social media (Twitter, LinkedIn) - or Github!
 - [ ] Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
 
-**Bonus:**
+Bonus:
 - [ ] React to today’s question if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions
 
-**Today's Challenge:**
+Today's Challenge:
 Create a program that swaps the values of two variables.
 ```
 
@@ -45,4 +45,37 @@ Create a program that swaps the values of two variables.
 - [ ] (Optional) Reach out to one woman in tech. Use Hopin or Slack channel to say hi to new network.
 - [x] Send appreciation message to a WWCode volunteer or member. See the photo above.
 
+## Day 2
 
+```
+Python Days of Code Challenge - Day 2
+
+How It Works:
+- 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
+
+Learning Together:
+- [ ] Share your solutions, ask questions, and connect with fellow coders in this thread or on social media (Twitter, LinkedIn) - or Github!
+- [ ] Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
+
+Bonus:
+- [ ] React to today’s question if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions
+
+Today's Challenge:
+- [ ] Create a program to calculate the area of a circle given its radius.
+```
+
+## Daily goals
+
+- [ ] Code every day for your selected number of days: 7, 14, 30, 60, or 100. Or Complete the challenge of the day.
+- [ ] Write an awesome commit message and push your code!
+- [x] Continue writing on your documentation.
+- [ ] Share your wins!
+- [ ] Help someone on Slack. Give feedback, share resources, be a rubber ducky, help in any way, in any form.
+- [x] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
+
+## Weekly goals
+
+- [ ] Connect and follow a WWCode volunteer or member on LinkedIn. Endorse their skills or if you worked on a project together write recommendations!
+- [ ] (Optional) Reach out to one woman in tech. Use Hopin or Slack channel to say hi to new network.
+- [ ] Send appreciation message to a WWCode volunteer or member.
+- [ ] Participate in a community coding challenge or project group. Or ask on slack to do the day or two challenges together.
