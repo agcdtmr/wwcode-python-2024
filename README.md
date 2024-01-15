@@ -11,6 +11,11 @@ Participating in the Women Who Code Python Days of Code Challenge
 - [x] Link to slides --- docs.google.com/presentation/d/1D4DfHo3ip3q5umzzT1hJXiE7HkQpwqfi2N3cedcOf0g/edit?usp=sharing
 - [x] [Raffle](https://wwcode.typeform.com/to/yXYKKH85)
 
+Be inspire by my solving techniques:
+- [Day 1](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-1.py)
+- [Day 2](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-2.py)
+
+
 ## Step by step guide how to solve the given python challenges
 
 ```# PROCESS ON SOLVING CODING CHALLENGES
