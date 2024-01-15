@@ -127,7 +127,7 @@ Bonus:
 - [ ] React to today’s question if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions
 
 Today's Challenge:
-Create a program that swaps the values of two variables.
+- [ ] Create a program that swaps the values of two variables.
 ```
 
 ## Daily goals:
