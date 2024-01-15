@@ -1,4 +1,4 @@
-# Create a program that swaps the values of two variables.
+## Challenge: Create a program that swaps the values of two variables.
 
 print("                                             ")
 variableOne = input("Type your first random variable: ")
@@ -11,7 +11,7 @@ print("Second random variable: ", variableTwo)
 
 
 
-# Swappin'
+## Swappin'
 
 temporaryHolder = variableOne
 variableOne = variableTwo
