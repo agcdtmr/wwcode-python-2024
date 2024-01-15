@@ -1,4 +1,4 @@
-## Day 2: Create a program to calculate the area of a circle given its radius.
+## Challenge: Create a program to calculate the area of a circle given its radius.
 
 ## Notes
 # The formula for calculating the area of a circle is given by:
