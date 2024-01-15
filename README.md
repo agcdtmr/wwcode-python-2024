@@ -11,41 +11,6 @@ Participating in the Women Who Code Python Days of Code Challenge
 - [x] Link to slides --- docs.google.com/presentation/d/1D4DfHo3ip3q5umzzT1hJXiE7HkQpwqfi2N3cedcOf0g/edit?usp=sharing
 - [x] [Raffle](https://wwcode.typeform.com/to/yXYKKH85)
 
-# Day 1
-
-```
-Python Days of Code Challenge - Day 1
-
-How It Works:
-- 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
-
-Learning Together:
-- [ ] Share your solutions, ask questions, and connect with fellow coders in this thread or on social media (Twitter, LinkedIn) - or Github!
-- [ ] Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
-
-Bonus:
-- [ ] React to today’s question if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions
-
-Today's Challenge:
-Create a program that swaps the values of two variables.
-```
-
-## Daily goals:
-- [x] Code [Day 1](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-1.py)
-- [x] Write an awesome commit message and push your code!
-- [x] Continue writing on your documentation.
-- [x] Share your wins!
-- [x] Help someone on Slack. Give feedback, share resources, be a rubber ducky.
-![day1help](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day1-help-p.png)
-- [x] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
-
-
-## Weekly goals
-- [ ] Connect and follow a WWCode volunteer or member on LinkedIn. Endorse their skills or if you worked on a project together write recommendations!
-- [ ] (Optional) Reach out to one woman in tech. Use Hopin or Slack channel to say hi to new network.
-- [x] Send appreciation message to a WWCode volunteer or member. See the photo above.
-
-
 ## Step by step guide how to solve the given python challenges
 
 ```# PROCESS ON SOLVING CODING CHALLENGES
@@ -140,6 +105,42 @@ Does this code run for every possible input including the edge cases. Is there a
 
 ```
 
+
+# Day 1
+
+```
+Python Days of Code Challenge - Day 1
+
+How It Works:
+- 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
+
+Learning Together:
+- [ ] Share your solutions, ask questions, and connect with fellow coders in this thread or on social media (Twitter, LinkedIn) - or Github!
+- [ ] Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
+
+Bonus:
+- [ ] React to today’s question if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions
+
+Today's Challenge:
+Create a program that swaps the values of two variables.
+```
+
+## Daily goals:
+- [x] Code [Day 1](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-1.py)
+- [x] Write an awesome commit message and push your code!
+- [x] Continue writing on your documentation.
+- [x] Share your wins!
+- [x] Help someone on Slack. Give feedback, share resources, be a rubber ducky.
+![day1help](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day1-help-p.png)
+- [x] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
+
+
+## Weekly goals
+- [ ] Connect and follow a WWCode volunteer or member on LinkedIn. Endorse their skills or if you worked on a project together write recommendations!
+- [ ] (Optional) Reach out to one woman in tech. Use Hopin or Slack channel to say hi to new network.
+- [x] Send appreciation message to a WWCode volunteer or member. See the photo above.
+
+
 ## Day 2
 
 ```
@@ -161,10 +162,10 @@ Today's Challenge:
 
 ## Daily goals
 
-- [ ] Code every day for your selected number of days: 7, 14, 30, 60, or 100. Or Complete the challenge of the day.
-- [ ] Write an awesome commit message and push your code!
+- [x] Code [Day 2](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-2.py)
+- [x] Write an awesome commit message and push your code!
 - [x] Continue writing on your documentation.
-- [ ] Share your wins!
+- [x] Share your wins!
 - [ ] Help someone on Slack. Give feedback, share resources, be a rubber ducky, help in any way, in any form.
 - [x] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
 
