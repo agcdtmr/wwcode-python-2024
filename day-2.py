@@ -1,4 +1,6 @@
-# Create a program to calculate the area of a circle given its radius.
+## Day 2: Create a program to calculate the area of a circle given its radius.
+
+## Notes
 # The formula for calculating the area of a circle is given by:
 # Area = pi ** radius
 # Area = π ** radius
@@ -7,7 +9,7 @@
 # radius means you square the length of the radius (multiply it by itself).
 # So, in simpler terms, to find the area of a circle, you take the value of pi, multiply it by the square of the radius.
 
-# PROCESS ON SOLVING CODING CHALLENGES
+## PROCESS ON SOLVING CODING CHALLENGES
 
 # 1. Understand the Problem
 # Inputs:
