@@ -14,7 +14,7 @@ Participating in the Women Who Code Python Days of Code Challenge
 Be inspire by my solving techniques:
 - [Day 1](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-1.py)
 - [Day 2](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-2.py)
-- [Day 3]()
+- [Day 3](https://github.com/agcdtmr/wwcode-python-2024#day-3)
 
 
 ## Step by step guide how to solve the given python challenges
