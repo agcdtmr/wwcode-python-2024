@@ -194,7 +194,7 @@ Today's Challenge:
 
 ## Daily goals
 
-- [x] Code [Day 3]()
+- [x] Code [Day 3](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-3.py)
 - [x] Write an awesome commit message and push your code!
 - [x] Continue writing on your documentation.
 - [x] Share your wins!
