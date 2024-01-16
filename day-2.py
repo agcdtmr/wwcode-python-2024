@@ -35,41 +35,41 @@
 
 # 3. Pseudocode
 
-# What is the formula of finding the area of a circle
-# Area = pi ** radius
-# Area = π ** radius
+# # What is the formula of finding the area of a circle
+# # Area = pi ** radius
+# # Area = π ** radius
 
-# # Create a pi variable and assign it to its value 3.14159
-# pi = 3.14159
+# Create a pi variable and assign it to its value 3.14159
+pi = 3.14159
 
-# # Use input to get the radius from the user from terminal
-# # input's value is string, convert it to integer
-# radius = int(input("What is the radius of the circle? "))
+# Use input to get the radius from the user from terminal
+# input's value is string, convert it to integer
+radius = int(input("What is the radius of the circle? "))
 
-# # Write the formula in a python way
-# areaOfCirle = pi * radius ** 2
+# Write the formula in a python way
+area_of_circle = pi * radius ** 2
 
-# # print the result
-# print(areaOfCirle)
+# print the result
+print(area_of_circle)
 
-# # 4. Solve/Simplify
+# 4. Solve/Simplify
 
-# pi = 3.14159
-# radius = int(input("What is the radius of the circle? "))
+pi = 3.14159
+radius = int(input("What is the radius of the circle? "))
 
-# areaOfCirle = pi * radius ** 2
-# print(areaOfCirle)
+area_of_circle = pi * radius ** 2
+print(area_of_circle)
 
 
 # 5. Refactor or Look Back
 
-def area_of_circle(radius):
-    if type(radius) not in [int, float]:
-        return "Invalid input. Please input integer or float."
+# def area_of_circle(radius):
+#     if type(radius) not in [int, float]:
+#         return "Invalid input. Please input integer or float type."
     
-    pi = 3.14159
-    areaOfCirle = pi * radius ** 2
-    return areaOfCirle
+#     pi = 3.14159
+#     areaOfCirle = pi * radius ** 2
+#     return areaOfCirle
 
 # 6. Code & Test
 
