@@ -15,7 +15,7 @@ Be inspire by my solving techniques:
 - [Day 1](https://github.com/agcdtmr/wwcode-python-2024/blob/main/README.md#day-1)
 - [Day 2](https://github.com/agcdtmr/wwcode-python-2024/blob/main/README.md#day-2)
 - [Day 3](https://github.com/agcdtmr/wwcode-python-2024#day-3)
-
+- [Day 4]()
 
 ## Step by step guide how to solve the given python challenges
 
@@ -112,7 +112,7 @@ Does this code run for every possible input including the edge cases. Is there a
 ```
 
 
-## Day 1
+# Day 1
 
 ```
 Python Days of Code Challenge - Day 1
@@ -131,7 +131,7 @@ Today's Challenge:
 - [ ] Create a program that swaps the values of two variables.
 ```
 
-## Daily goals:
+### Daily goals:
 - [x] Code [Day 1](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-1.py)
 - [x] Write an awesome commit message and push your code!
 - [x] Continue writing on your documentation.
@@ -141,11 +141,11 @@ Today's Challenge:
 - [x] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
 
 
-## Weekly goals
+### Weekly goals
 - [x] Send appreciation message to a WWCode volunteer or member. See the photo above.
 
 
-## Day 2
+# Day 2
 
 ```
 Python Days of Code Challenge - Day 2
@@ -164,7 +164,7 @@ Today's Challenge:
 - [ ] Create a program to calculate the area of a circle given its radius.
 ```
 
-## Daily goals
+### Daily goals
 
 - [x] Code [Day 2](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-2.py)
 - [x] Write an awesome commit message and push your code!
@@ -173,7 +173,7 @@ Today's Challenge:
 - [x] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
 
 
-## Day 3
+# Day 3
 
 ```
 Python Days of Code Challenge - Day 3
@@ -192,10 +192,41 @@ Today's Challenge:
 - [ ] Write a function to count the number of vowels in a given string 
 ```
 
-## Daily goals
+### Daily goals
 
 - [x] Code [Day 3](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-3.py)
 - [x] Write an awesome commit message and push your code!
 - [x] Continue writing on your documentation.
 - [x] Share your wins!
 - [x] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
+
+
+# Day 4
+
+```
+Python Days of Code Challenge - Day 4 :jigsaw:
+
+How It Works:
+- 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
+
+Learning Together:
+- [ ] Share your solutions, ask questions, and connect with fellow coders in this thread or on social media (Twitter, LinkedIn) - or Github!
+- [ ] Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
+
+Bonus:
+- [ ] React to today’s question if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions
+
+Today's Challenge:
+- [ ] Write a program to find the sum of all elements in a list.
+
+```
+
+
+### Daily goals
+
+- [x] Code [Day 4]()
+- [x] Write an awesome commit message and push your code!
+- [x] Continue writing on your documentation.
+- [x] Share your wins!
+- [x] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
+
