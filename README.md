@@ -204,7 +204,7 @@ Today's Challenge:
 # Day 4
 
 ```
-Python Days of Code Challenge - Day 4 :jigsaw:
+Python Days of Code Challenge - Day 4
 
 How It Works:
 - 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
