@@ -15,7 +15,7 @@ Be inspire by my solving techniques:
 - [Day 1](https://github.com/agcdtmr/wwcode-python-2024/blob/main/README.md#day-1)
 - [Day 2](https://github.com/agcdtmr/wwcode-python-2024/blob/main/README.md#day-2)
 - [Day 3](https://github.com/agcdtmr/wwcode-python-2024#day-3)
-- [Day 4](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-4.py)
+- [Day 4](https://github.com/agcdtmr/wwcode-python-2024#day-4)
 
 ## Step by step guide how to solve the given python challenges
 
@@ -224,7 +224,7 @@ Today's Challenge:
 
 ### Daily goals
 
-- [x] Code [Day 4]()
+- [x] Code [Day 4](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-4.py)
 - [x] Write an awesome commit message and push your code!
 - [x] Continue writing on your documentation.
 - [x] Share your wins!
