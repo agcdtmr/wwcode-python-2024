@@ -10,13 +10,13 @@ Participating in the Women Who Code Python Days of Code Challenge
 - [ ] Join us for more Python events this month! Upcoming events, links to social media, and more at members.womenwhocode.com/events/?&community=WWCode%20Python and beacons.ai/wwcodepython
 - [x] Link to slides --- docs.google.com/presentation/d/1D4DfHo3ip3q5umzzT1hJXiE7HkQpwqfi2N3cedcOf0g/edit?usp=sharing
 - [x] [Raffle](https://wwcode.typeform.com/to/yXYKKH85)
-
-Be inspire by my solving techniques:
+- [x] Discover innovative problem-solving strategies in my approaches:
 - [Day 1](https://github.com/agcdtmr/wwcode-python-2024/blob/main/README.md#day-1)
 - [Day 2](https://github.com/agcdtmr/wwcode-python-2024/blob/main/README.md#day-2)
 - [Day 3](https://github.com/agcdtmr/wwcode-python-2024#day-3)
 - [Day 4](https://github.com/agcdtmr/wwcode-python-2024#day-4)
 - [Day 5](https://github.com/agcdtmr/wwcode-python-2024/blob/main/README.md#day-5)
+
 
 ## Step by step guide how to solve the given python challenges
 
