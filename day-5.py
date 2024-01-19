@@ -49,7 +49,7 @@ print(f"The maximum value is: {maximum_value}")
 
 # 5. Refactor or Look Back
 
-
+# With more knowledge, I would like to refactor this to where I can combine str and int in one list
 
 # 6. Test the code
 
