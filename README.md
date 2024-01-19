@@ -16,6 +16,7 @@ Be inspire by my solving techniques:
 - [Day 2](https://github.com/agcdtmr/wwcode-python-2024/blob/main/README.md#day-2)
 - [Day 3](https://github.com/agcdtmr/wwcode-python-2024#day-3)
 - [Day 4](https://github.com/agcdtmr/wwcode-python-2024#day-4)
+- [Day 5](https://github.com/agcdtmr/wwcode-python-2024/blob/main/README.md#day-5)
 
 ## Step by step guide how to solve the given python challenges
 
