@@ -252,7 +252,7 @@ Today's Challenge:
 
 ### Daily goals
 
-- [x] Code [Day 5]()
+- [x] Code [Day 5](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-5.py)
 - [x] Write an awesome commit message and push your code!
 - [x] Continue writing on your documentation.
 - [x] Share your wins!
