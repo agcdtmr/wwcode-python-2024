@@ -21,7 +21,7 @@
 # 3. Pseudocode
 
 # Create a list and assign random numbers
-# Find a way to iterate to each element in the list
+# Find a way to iterate to each element in the list (for loop)
 # Use add function to add each element in the list
 # Define a bucket to put the total sum
 # Print the sum
