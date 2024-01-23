@@ -286,3 +286,69 @@ Today's Challenge:
 - [x] Continue writing on your documentation.
 - [x] Share your wins!
 - [x] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
+
+
+# Day 7
+
+Python Days of Code Challenge - Day 7 :jigsaw:
+:bulb: How It Works:
+:calendar: 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
+:handshake: Learning Together:
+Share your solutions, ask questions, and connect with fellow coders in this thread or on social media (Twitter, LinkedIn) - or Github!
+Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
+:gift: Bonus:
+React to today’s question with a ":question:" if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions.
+:brain: Today's Challenge:
+Write a program to check if a number is positive, negative, or zero.
+
+# Day 8
+
+Python Days of Code Challenge - Day 8 :jigsaw:
+:bulb: How It Works:
+:calendar: 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
+:handshake: Learning Together:
+Share your solutions, ask questions, and connect with fellow coders in this thread or on social media (Twitter, LinkedIn) - or Github!
+Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
+:gift: Bonus:
+React to today’s question with a ":question:" if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions.
+:brain: Today's Challenge:
+Write a function that accepts a string and calculates the number of uppercase and lowercase letters in it.
+
+# Day 9
+
+Python Days of Code Challenge - Day 9 :jigsaw:
+:bulb: How It Works:
+:calendar: 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
+:handshake: Learning Together:
+Share your solutions, ask questions, and connect with fellow coders in this thread or on social media (Twitter, LinkedIn) - or Github!
+Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
+:gift: Bonus:
+React to today’s question with a ":question:" if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions.
+:brain: Today's Challenge:
+Write a program to check if a number is even or odd.
+
+# Day 10
+
+Python Days of Code Challenge - Day 10 :jigsaw:
+:bulb: How It Works:
+:calendar: 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
+:handshake: Learning Together:
+Share your solutions, ask questions, and connect with fellow coders in this thread or on social media (Twitter, LinkedIn) - or Github!
+Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
+:gift: Bonus:
+React to today’s question with a ":question:" if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions.
+:brain: Today's Challenge:
+Write a program to remove duplicates from a list.
+
+# Day 11
+
+Python Days of Code Challenge - Day 11 :jigsaw:
+:bulb: How It Works:
+:calendar: 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
+:handshake: Learning Together:
+Share your solutions, ask questions, and connect with fellow coders in this thread or on social media (Twitter, LinkedIn) - or Github!
+Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
+:gift: Bonus:
+React to today’s question with a ":question:" if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions.
+:brain: Today's Challenge:
+Write a program to print the multiplication table of a given number.
