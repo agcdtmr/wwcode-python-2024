@@ -10,13 +10,12 @@ Participating in the Women Who Code Python Days of Code Challenge
 - [ ] Join us for more Python events this month! Upcoming events, links to social media, and more at members.womenwhocode.com/events/?&community=WWCode%20Python and beacons.ai/wwcodepython
 - [x] Link to slides --- docs.google.com/presentation/d/1D4DfHo3ip3q5umzzT1hJXiE7HkQpwqfi2N3cedcOf0g/edit?usp=sharing
 - [x] [Raffle](https://wwcode.typeform.com/to/yXYKKH85)
-- [x] Discover innovative problem-solving strategies in my approaches:
+
+Be inspire by my solving techniques:
 - [Day 1](https://github.com/agcdtmr/wwcode-python-2024/blob/main/README.md#day-1)
 - [Day 2](https://github.com/agcdtmr/wwcode-python-2024/blob/main/README.md#day-2)
 - [Day 3](https://github.com/agcdtmr/wwcode-python-2024#day-3)
 - [Day 4](https://github.com/agcdtmr/wwcode-python-2024#day-4)
-- [Day 5](https://github.com/agcdtmr/wwcode-python-2024/blob/main/README.md#day-5)
-
 
 ## Step by step guide how to solve the given python challenges
 
@@ -253,7 +252,34 @@ Today's Challenge:
 
 ### Daily goals
 
-- [x] Code [Day 5](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-5.py)
+- [x] Code [Day 5]()
+- [x] Write an awesome commit message and push your code!
+- [x] Continue writing on your documentation.
+- [x] Share your wins!
+- [x] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
+
+# Day 6
+
+```
+Python Days of Code Challenge - Day 6
+
+How It Works:
+- 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
+
+Learning Together:
+- [ ] Share your solutions, ask questions, and connect with fellow coders in this thread or on social media (Twitter, LinkedIn) - or Github!
+- [ ] Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
+
+Bonus:
+- [ ] React to today’s question with a ":question:" if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions.
+
+Today's Challenge:
+- [ ] Write a program to count the occurrences of a specific character in a string.
+```
+
+### Daily goals
+
+- [x] Code [Day 6]()
 - [x] Write an awesome commit message and push your code!
 - [x] Continue writing on your documentation.
 - [x] Share your wins!
