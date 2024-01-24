@@ -290,16 +290,32 @@ Today's Challenge:
 
 # Day 7
 
-Python Days of Code Challenge - Day 7 :jigsaw:
-:bulb: How It Works:
-:calendar: 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
-:handshake: Learning Together:
-Share your solutions, ask questions, and connect with fellow coders in this thread or on social media (Twitter, LinkedIn) - or Github!
-Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
-:gift: Bonus:
-React to today’s question with a ":question:" if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions.
-:brain: Today's Challenge:
-Write a program to check if a number is positive, negative, or zero.
+```
+Python Days of Code Challenge - Day 7
+
+How It Works:
+- 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
+
+Learning Together:
+- [ ] Share your solutions, ask questions, and connect with fellow coders in this thread or on social media (Twitter, LinkedIn) - or Github!
+- [ ] Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
+
+Bonus:
+- [ ]React to today’s question with a ":question:" if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions.
+
+Today's Challenge:
+- [ ] Write a program to check if a number is positive, negative, or zero.
+```
+
+### Daily goals
+
+- [ ] Code [Day 7]()
+- [ ] Write an awesome commit message and push your code!
+- [ ] Continue writing on your documentation.
+- [ ] Share your wins!
+- [ ] Help someone on Slack. Give feedback, share resources, be a rubber ducky, help in any way, in any form.
+- [ ] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
+
 
 # Day 8
 
