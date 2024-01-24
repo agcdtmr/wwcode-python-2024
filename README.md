@@ -309,12 +309,11 @@ Today's Challenge:
 
 ### Daily goals
 
-- [ ] Code [Day 7]()
-- [ ] Write an awesome commit message and push your code!
-- [ ] Continue writing on your documentation.
-- [ ] Share your wins!
-- [ ] Help someone on Slack. Give feedback, share resources, be a rubber ducky, help in any way, in any form.
-- [ ] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
+- [x] Code [Day 7](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-7.py)
+- [x] Write an awesome commit message and push your code!
+- [x] Continue writing on your documentation.
+- [x] Share your wins!
+- [x] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
 
 
 # Day 8
