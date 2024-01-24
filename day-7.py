@@ -3,21 +3,23 @@
 # PROCESS ON SOLVING CODING CHALLENGES
 
 # 1. Understand the Problem
-# Inputs:
-# Outputs:
-# Restrictions:
+# Inputs: integer
+# Outputs: print positive, negative, or zero.
+# Restrictions: 
 
 # 2. Examples
 
 # Example 1:
-# Input:
-# Output:
+# Input: 0
+# Output: zero
 
 # Example 2:
-# Input:
-# Output:
+# Input: -3
+# Output: negative
 
 # 3. Pseudocode
+
+
 
 # 4. Solve/Simplify
 
