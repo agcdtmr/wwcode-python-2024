@@ -27,6 +27,9 @@
 
 def numberChecker(intValue):
 
+    # if not int or len(intValue) != 1:
+    # raise ValueError("Invalid input. Please provide a number")
+
     if intValue == "0":
         return "zero"
     elif "-" in intValue:
