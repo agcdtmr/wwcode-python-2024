@@ -19,9 +19,22 @@
 
 # 3. Pseudocode
 
-
+# if value has - in it then return negative,
+# if value is 0 then return zero
+# else return positive
 
 # 4. Solve/Simplify
+
+def numberChecker(intValue):
+
+    if intValue == "0":
+        return "zero"
+    elif "-" in intValue:
+        return "negative"
+    else:
+        return "positive"
+
+
 
 # 5. Refactor or Look Back
 
@@ -36,7 +49,42 @@
 
 # 6. Test the code
 
+
+
+test1 = numberChecker(input("Type a number: "))
+print(f"The given number is {test1}")
+
+print(numberChecker(str(-1)))
+print(numberChecker(str(11)))
+print(numberChecker(str(0)))
+print(numberChecker(str(4)))
+print(numberChecker(str(10000000)))
+print(numberChecker(str(-10000000)))
+
+
+
+
 # Optional: Document errors you encountered
+
+
+## Error1
+# I forgot that it's only str not string to convert
+# print(string(numberChecker(-1)))
+#           ^^^^^^
+# NameError: name 'string' is not defined. Did you forget to import 'string'?
+
+## Error2
+#     print(numberChecker(11))
+#           ^^^^^^^^^^^^^^^^^
+#     if "-" in intValue:
+#        ^^^^^^^^^^^^^^^
+# TypeError: argument of type 'int' is not iterable
+
+##Error3
+# I cannot call the function inside a print function?
+#     print(f"The number is typed is {numberChecker(test1)})
+#           ^
+# SyntaxError: unterminated f-string literal (detected at line 54)
 
 # 7. Double Check the Documentation
 
