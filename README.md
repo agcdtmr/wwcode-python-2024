@@ -285,7 +285,7 @@ Today's Challenge:
 - [x] Code [Day 6](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-6.py)
 - [x] Write an awesome commit message and push your code!
 - [x] Continue writing on your documentation.
-- [x] Share your wins!
+- [ ] Share your wins!
 - [x] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
 
 
@@ -313,7 +313,7 @@ Today's Challenge:
 - [x] Code [Day 7](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-7.py)
 - [x] Write an awesome commit message and push your code!
 - [x] Continue writing on your documentation.
-- [x] Share your wins!
+- [ ] Share your wins!
 - [x] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
 
 
