@@ -395,3 +395,167 @@ Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #Py
 React to today’s question if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions
 :brain: Today's Challenge:
 Write a program to shuffle the elements of a list randomly.
+
+
+# Day 14
+
+:jigsaw: Python Days of Code Challenge - Day 14 :jigsaw:
+:bulb: How It Works:
+:calendar: 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
+:handshake: Learning Together:
+Share your solutions, ask questions, and connect with fellow coders in this thread or on social media (Twitter, LinkedIn) - or Github!
+Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
+:gift: Bonus:
+React to today’s question if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions
+:brain: Today's Challenge:
+Write a program to print the first n numbers of a Fibonacci sequence
+
+# Day 15
+
+:jigsaw: Python Days of Code Challenge - Day 15 :jigsaw:
+:bulb: How It Works:
+:calendar: 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
+:handshake: Learning Together:
+Share your solutions, ask questions, and connect with fellow coders in this thread or on social media (Twitter, LinkedIn) - or Github!
+Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
+:gift: Bonus:
+React to today’s question if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions
+:brain: Today's Challenge:
+Create a program that checks if a year is a leap year.
+
+# Day 16
+
+:jigsaw: Python Days of Code Challenge - Day 16 :jigsaw:
+:bulb: How It Works:
+:calendar: 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
+:handshake: Learning Together:
+Share your solutions, ask questions, and connect with fellow coders in this thread or on social media (Twitter, LinkedIn) - or Github!
+Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
+:gift: Bonus:
+React to today’s question if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions
+:brain: Today's Challenge:
+Write a function that counts the frequency of each word in a sentence.
+
+# Day 17
+
+:jigsaw: Python Days of Code Challenge - Day 17 :jigsaw:
+:bulb: How It Works:
+:calendar: 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
+:handshake: Learning Together:
+Share
+ your solutions, ask questions, and connect with fellow coders in this
+thread or on social media (Twitter, LinkedIn) - or Github!
+Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
+:gift: Bonus:
+React to today’s question with a ":question:" if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions.
+:brain: Today's Challenge:
+Create a program that capitalizes the first letter of each word in a sentence
+
+
+# Day 18
+
+:jigsaw: Python Days of Code Challenge - Day 18 :jigsaw:
+:bulb: How It Works:
+:calendar: 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
+:handshake: Learning Together:
+Share
+ your solutions, ask questions, and connect with fellow coders in this
+thread or on social media (Twitter, LinkedIn) - or Github!
+Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
+:gift: Bonus:
+React to today’s question with a ":question:" if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions.
+:brain: Today's Challenge:
+Create a program to find the largest among three numbers.
+
+# Day 19
+
+:jigsaw: Python Days of Code Challenge - Day 19 :jigsaw:
+:bulb: How It Works:
+:calendar: 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
+:handshake: Learning Together:
+Share
+ your solutions, ask questions, and connect with fellow coders in this
+thread or on social media (Twitter, LinkedIn) - or Github!
+Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
+:gift: Bonus:
+React to today’s question with a ":question:" if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions.
+:brain: Today's Challenge:
+Write a function to calculate the factorial of a number.
+If you want, take it a step further and use recursion.
+
+# Day 20
+
+:jigsaw: Python Days of Code Challenge - Day 20 :jigsaw:
+:bulb: How It Works:
+:calendar: 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
+:handshake: Learning Together:
+Share
+ your solutions, ask questions, and connect with fellow coders in this
+thread or on social media (Twitter, LinkedIn) - or Github!
+Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
+:gift: Bonus:
+React to today’s question with a ":question:" if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions.
+:brain: Today's Challenge:
+Write a function that takes a list of numbers and returns a new list containing only the even numbers.
+
+
+# Day 21
+
+:jigsaw: Python Days of Code Challenge - Day 21 :jigsaw:
+:bulb: How It Works:
+:calendar: 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
+:handshake: Learning Together:
+Share
+ your solutions, ask questions, and connect with fellow coders in this
+thread or on social media (Twitter, LinkedIn) - or Github!
+Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
+:gift: Bonus:
+React to today’s question with a ":question:" if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions.
+:brain: Today's Challenge:
+Create a program to remove a specific element from a set.
+
+# Day 22
+
+:jigsaw: Python Days of Code Challenge - Day 22 :jigsaw:
+:bulb: How It Works:
+:calendar: 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
+:handshake: Learning Together:
+Share
+ your solutions, ask questions, and connect with fellow coders in this
+thread or on social media (Twitter, LinkedIn) - or Github!
+Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
+:gift: Bonus:
+React to today’s question with a ":question:" if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions.
+:brain: Today's Challenge:
+Create a program to find the second-largest element in a list.
+
+# Day 23
+
+:jigsaw: Python Days of Code Challenge - Day 23 :jigsaw:
+:bulb: How It Works:
+:calendar: 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
+:handshake: Learning Together:
+Share
+ your solutions, ask questions, and connect with fellow coders in this
+thread or on social media (Twitter, LinkedIn) - or Github!
+Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
+:gift: Bonus:
+React to today’s question with a ":question:" if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions.
+:brain: Today's Challenge:
+Write a program that checks if a key exists in a dictionary.
+
+
+# Day 24
+
+:jigsaw: Python Days of Code Challenge - Day 24 :jigsaw:
+:bulb: How It Works:
+:calendar: 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
+:handshake: Learning Together:
+Share
+ your solutions, ask questions, and connect with fellow coders in this
+thread or on social media (Twitter, LinkedIn) - or Github!
+Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
+:gift: Bonus:
+React to today’s question with a ":question:" if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions.
+:brain: Today's Challenge:
+Write a program to remove vowels from a given string.
