@@ -49,10 +49,10 @@ def checkNums(givenNum):
 
 # 6. Test the code
 
-print(checkNums(3)) 
-print(checkNums(0))
-print(checkNums(9))
-print(checkNums(8))
+print(checkNums(3)) # 3 is odd
+print(checkNums(0)) # 0 is even
+print(checkNums(9)) # 9 is odd
+print(checkNums(8)) # 8 is even
 
 
 # Optional: Document errors you encountered
@@ -68,6 +68,7 @@ print(checkNums(8))
 #     return "{givenNum} is even"
 # else:
 #     return "{givenNum} is odd"
+# Output:
 # {givenNum} is even
 # {givenNum} is odd
 # {givenNum} is even
