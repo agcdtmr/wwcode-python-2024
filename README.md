@@ -19,6 +19,9 @@ Be inspire by my solving techniques:
 - [Day 5](https://github.com/agcdtmr/wwcode-python-2024?tab=readme-ov-file#day-5)
 - [Day 6](https://github.com/agcdtmr/wwcode-python-2024?tab=readme-ov-file#day-6)
 - [Day 7](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-7.py)
+- [Day 8](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-8.py)
+- [Day 9](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-9.py)
+- [Day 10](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-10.py)
 
 ## Step by step guide how to solve the given python challenges
 
