@@ -67,14 +67,19 @@ print(duplicateRemover(test_list))
 not_list = 5
 print(duplicateRemover(not_list))
 
+not_list1 = "this is string"
+print(duplicateRemover(not_list1))
 
 # Error 1: I forgot to use print() to show the returned output
 # zsh: command not found: 0
 
-# Error 2: test not list input
+# Error 2: not_list -- test not list input
 # print(duplicateRemover(not_list))
 #           ^^^^^^^^^^^^^^^^^^^^^^^^^^ 
 #     line 39, in duplicateRemover
 #     raise ValueError("Input must be a list")
 # ValueError: Input must be a list
 
+# Error 3: not_list1
+# File "<stdin>", line 1
+# SyntaxError: invalid syntax
