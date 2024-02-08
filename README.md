@@ -22,6 +22,7 @@ Be inspired by my solving techniques:
 - [Day 8](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-8.py)
 - [Day 9](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-9.py)
 - [Day 10](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-10.py)
+- [Day 11](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-11.py)
 
 ## Step by step guide how to solve the given python challenges
 
