@@ -6,7 +6,7 @@
 # 1. Understand the Problem
 # Inputs: string
 # Outputs: integer
-# Restrictions: 
+# Restrictions:
 
 # 2. Examples
 
@@ -20,7 +20,7 @@
 
 # 3. Pseudocode
 
-# Define a function and assign a string as parameter 
+# Define a function and assign a string as parameter
 
 # def letterCasesCalculator(str):
 
@@ -83,6 +83,21 @@ def letterCasesCalculator(str):
 
 # 6. Test the code
 
+
 letterCasesCalculator("QWErty")  # Output: lowercase: 3 and uppercase: 3
 letterCasesCalculator("LOWERCASE")  # Output: lowercase: 0 and uppercase: 9
 letterCasesCalculator("uppercase")  # Output: lowercase: 9 and uppercase: 0
+
+
+# # Day 8
+
+# Python Days of Code Challenge - Day 8 :jigsaw:
+# :bulb: How It Works:
+# :calendar: 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
+# :handshake: Learning Together:
+# Share your solutions, ask questions, and connect with fellow coders in this thread or on social media (Twitter, LinkedIn) - or Github!
+# Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
+# :gift: Bonus:
+# React to today’s question with a ":question:" if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions.
+# :brain: Today's Challenge:
+# Write a function that accepts a string and calculates the number of uppercase and lowercase letters in it.
