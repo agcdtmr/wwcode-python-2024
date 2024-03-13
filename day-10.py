@@ -37,13 +37,12 @@ def duplicateRemover(given_list):
     # Check if the input is a valid list
     if not isinstance(given_list, list):
         raise ValueError("Input must be a list")
-    
+
     # Use a set to efficiently remove duplicates
     unique_set = set(given_list)
 
     # Preserve the order of elements by converting the set back to a list
     cleaned_list = list(unique_set)
-
 
     return cleaned_list
 
@@ -58,10 +57,13 @@ def duplicateRemover(given_list):
 
 # 6. Test the code
 
-test_list1 = [1, 2, 3, 4, 4, 5, 5, "banana", 5, "grape", "apple", "orange", 4, "banana", 5, "grape"]
+
+test_list1 = [1, 2, 3, 4, 4, 5, 5, "banana", 5,
+              "grape", "apple", "orange", 4, "banana", 5, "grape"]
 print(duplicateRemover(test_list1))
 
-test_list = [1, 1, 1, 2, 3, 2, 3, "apple", "orange", 4, "banana", 5, "grape", "orange", 4, "banana"]
+test_list = [1, 1, 1, 2, 3, 2, 3, "apple", "orange",
+             4, "banana", 5, "grape", "orange", 4, "banana"]
 print(duplicateRemover(test_list))
 
 not_list = 5
@@ -75,7 +77,7 @@ print(duplicateRemover(not_list1))
 
 # Error 2: not_list -- test not list input
 # print(duplicateRemover(not_list))
-#           ^^^^^^^^^^^^^^^^^^^^^^^^^^ 
+#           ^^^^^^^^^^^^^^^^^^^^^^^^^^
 #     line 39, in duplicateRemover
 #     raise ValueError("Input must be a list")
 # ValueError: Input must be a list
@@ -83,3 +85,17 @@ print(duplicateRemover(not_list1))
 # Error 3: not_list1
 # File "<stdin>", line 1
 # SyntaxError: invalid syntax
+
+
+# # Day 10
+
+# Python Days of Code Challenge - Day 10 :jigsaw:
+# :bulb: How It Works:
+# :calendar: 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
+# :handshake: Learning Together:
+# Share your solutions, ask questions, and connect with fellow coders in this thread or on social media (Twitter, LinkedIn) - or Github!
+# Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
+# :gift: Bonus:
+# React to today’s question with a ":question:" if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions.
+# :brain: Today's Challenge:
+# Write a program to remove duplicates from a list.
