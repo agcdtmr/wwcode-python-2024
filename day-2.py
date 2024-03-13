@@ -1,6 +1,6 @@
-## Challenge: Create a program to calculate the area of a circle given its radius.
+# Challenge: Create a program to calculate the area of a circle given its radius.
 
-## Notes
+# Notes
 # The formula for calculating the area of a circle is given by:
 # Area = pi ** radius
 # Area = π ** radius
@@ -9,7 +9,7 @@
 # radius means you square the length of the radius (multiply it by itself).
 # So, in simpler terms, to find the area of a circle, you take the value of pi, multiply it by the square of the radius.
 
-## PROCESS ON SOLVING CODING CHALLENGES
+# PROCESS ON SOLVING CODING CHALLENGES
 
 # 1. Understand the Problem
 # Inputs:
@@ -66,7 +66,7 @@ print(area_of_circle)
 # def area_of_circle(radius):
 #     if type(radius) not in [int, float]:
 #         return "Invalid input. Please input integer or float type."
-    
+
 #     pi = 3.14159
 #     areaOfCirle = pi * radius ** 2
 #     return areaOfCirle
@@ -102,3 +102,30 @@ print(f"The area of a circle with radius {radius_zero} is {area_zero}")
 radius_large = 1000
 area_large = area_of_circle(radius_large)
 print(f"The area of a circle with radius {radius_large} is {area_large}")
+
+# # Day 2
+
+# ```
+# Python Days of Code Challenge - Day 2
+
+# How It Works:
+# - 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
+
+# Learning Together:
+# - [ ] Share your solutions, ask questions, and connect with fellow coders in this thread or on social media (Twitter, LinkedIn) - or Github!
+# - [ ] Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
+
+# Bonus:
+# - [ ] React to today’s question if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions
+
+# Today's Challenge:
+# - [ ] Create a program to calculate the area of a circle given its radius.
+# ```
+
+# ### Daily goals
+
+# - [x] Code [Day 2](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-2.py)
+# - [x] Write an awesome commit message and push your code!
+# - [x] Continue writing on your documentation.
+# - [x] Share your wins!
+# - [x] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
