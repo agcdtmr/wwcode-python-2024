@@ -51,13 +51,12 @@
 # 4. Solve/Simplify
 
 given_number = int(input("Type a given number: "))
-maximum_multiplicandNumber = int(input("Type the maximum multiplicand number of the multiplication table: "))
+maximum_multiplicandNumber = int(
+    input("Type the maximum multiplicand number of the multiplication table: "))
 
 for i in range(maximum_multiplicandNumber):
     result = given_number * i
     print(f"{given_number} * {i} = {result}")
-
-
 
 
 # 5. Refactor or Look Back
@@ -156,3 +155,16 @@ for i in range(maximum_multiplicandNumber):
 #              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 # TypeError: 'str' object cannot be interpreted as an integer
 
+
+# # Day 11
+
+# Python Days of Code Challenge - Day 11 :jigsaw:
+# :bulb: How It Works:
+# :calendar: 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
+# :handshake: Learning Together:
+# Share your solutions, ask questions, and connect with fellow coders in this thread or on social media (Twitter, LinkedIn) - or Github!
+# Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
+# :gift: Bonus:
+# React to today’s question with a ":question:" if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions.
+# :brain: Today's Challenge:
+# Write a program to print the multiplication table of a given number.
