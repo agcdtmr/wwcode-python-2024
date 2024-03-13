@@ -5,7 +5,7 @@
 # 1. Understand the Problem
 # Inputs: integer
 # Outputs: print positive, negative, or zero.
-# Restrictions: 
+# Restrictions:
 
 # 2. Examples
 
@@ -38,7 +38,6 @@ def numberChecker(intValue):
         return "positive"
 
 
-
 # 5. Refactor or Look Back
 
 # - Time Complexity
@@ -53,7 +52,6 @@ def numberChecker(intValue):
 # 6. Test the code
 
 
-
 test1 = numberChecker(input("Type a number: "))
 print(f"The given number is {test1}")
 
@@ -65,25 +63,23 @@ print(numberChecker(str(10000000)))
 print(numberChecker(str(-10000000)))
 
 
-
-
 # Optional: Document errors you encountered
 
 
-## Error1
+# Error1
 # I forgot that it's only str not string to convert
 # print(string(numberChecker(-1)))
 #           ^^^^^^
 # NameError: name 'string' is not defined. Did you forget to import 'string'?
 
-## Error2
+# Error2
 #     print(numberChecker(11))
 #           ^^^^^^^^^^^^^^^^^
 #     if "-" in intValue:
 #        ^^^^^^^^^^^^^^^
 # TypeError: argument of type 'int' is not iterable
 
-##Error3
+# Error3
 # I cannot call the function inside a print function?
 #     print(f"The number is typed is {numberChecker(test1)})
 #           ^
@@ -92,3 +88,31 @@ print(numberChecker(str(-10000000)))
 # 7. Double Check the Documentation
 
 # 8. Submit the Solution
+
+
+# # Day 7
+
+# ```
+# Python Days of Code Challenge - Day 7
+
+# How It Works:
+# - 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
+
+# Learning Together:
+# - [ ] Share your solutions, ask questions, and connect with fellow coders in this thread or on social media (Twitter, LinkedIn) - or Github!
+# - [ ] Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
+
+# Bonus:
+# - [ ]React to today’s question with a ":question:" if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions.
+
+# Today's Challenge:
+# - [ ] Write a program to check if a number is positive, negative, or zero.
+# ```
+
+# ### Daily goals
+
+# - [x] Code [Day 7](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-7.py)
+# - [x] Write an awesome commit message and push your code!
+# - [x] Continue writing on your documentation.
+# - [ ] Share your wins!
+# - [x] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
