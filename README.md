@@ -11,19 +11,6 @@ Participating in the Women Who Code Python Days of Code Challenge
 - [x] Link to slides --- docs.google.com/presentation/d/1D4DfHo3ip3q5umzzT1hJXiE7HkQpwqfi2N3cedcOf0g/edit?usp=sharing
 - [x] [Raffle](https://wwcode.typeform.com/to/yXYKKH85)
 
-Be inspired by my solving techniques:
-
-- [Day 1](https://github.com/agcdtmr/wwcode-python-2024/blob/main/README.md#day-1)
-- [Day 2](https://github.com/agcdtmr/wwcode-python-2024/blob/main/README.md#day-2)
-- [Day 3](https://github.com/agcdtmr/wwcode-python-2024#day-3)
-- [Day 4](https://github.com/agcdtmr/wwcode-python-2024#day-4)
-- [Day 5](https://github.com/agcdtmr/wwcode-python-2024?tab=readme-ov-file#day-5)
-- [Day 6](https://github.com/agcdtmr/wwcode-python-2024?tab=readme-ov-file#day-6)
-- [Day 7](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-7.py)
-- [Day 8](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-8.py)
-- [Day 9](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-9.py)
-- [Day 10](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-10.py)
-- [Day 11](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-11.py)
 
 ## Step by step guide how to solve the given python challenges
 
