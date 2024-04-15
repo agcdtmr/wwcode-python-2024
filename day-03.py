@@ -83,30 +83,3 @@ print(vowel_counter("queue"))   # Output: 4
 print(vowel_counter("sequoia"))  # Output: 5
 print(vowel_counter("12345"))  # Output: 0 (no vowels)
 
-
-# # Day 3
-
-# ```
-# Python Days of Code Challenge - Day 3
-
-# How It Works:
-# - 60 Days, 60 Questions: Dive into daily Python challenges, each marking a step closer to coding mastery. You can start anytime in between as well!
-
-# Learning Together:
-# - [ ] Share your solutions, ask questions, and connect with fellow coders in this thread or on social media (Twitter, LinkedIn) - or Github!
-# - [ ] Don't forget to tag us @WWCodePython or use the hashtags #WomenWhoCodePython #PythonDaysofCode so we can celebrate your achievements!
-
-# Bonus:
-# - [ ] React to today’s question if you’d like us to solve this LIVE in our upcoming Python Code Jam Sessions
-
-# Today's Challenge:
-# - [ ] Write a function to count the number of vowels in a given string
-# ```
-
-# ### Daily goals
-
-# - [x] Code [Day 3](https://github.com/agcdtmr/wwcode-python-2024/blob/main/day-3.py)
-# - [x] Write an awesome commit message and push your code!
-# - [x] Continue writing on your documentation.
-# - [x] Share your wins!
-# - [x] Take care of yourself: pause, stretch, hydrate. More on [WWCode Code of Balance](https://www.womenwhocode.com/blog/category/mental-health).
